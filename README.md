@@ -1,29 +1,29 @@
 <div align="center">
-    <a href="https://github.com/MarSeventh/CloudFlare-ImgBed"><img width="80%" alt="logo" src="static/readme/banner.png"/></a>
+    <a href="https://img.1314151.xyz"><img width="80%" alt="logo" src="static/readme/banner.png"/></a>
     <p><em>🗂️开源文件托管解决方案，支持 Docker 和无服务器部署，支持 Telegram Bot 、 Cloudflare R2 、S3 等多种存储渠道，支持 WebDAV 协议和多种 RESTful API</em></p>
     <p>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README.md">简体中文</a> | <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/README_en.md">English</a> | <a href="https://cfbed.sanyue.de">官方网站</a>
+        <a href="https://img.1314151.xyz/blob/main/README.md">简体中文</a> | <a href="https://img.1314151.xyz/blob/main/README_en.md">English</a> | <a href="https://cfbed.sanyue.de">官方网站</a>
     </p>
     <div>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/blob/main/LICENSE">
+        <a href="https://img.1314151.xyz/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/MarSeventh/CloudFlare-ImgBed" alt="License" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/releases">
+        <a href="https://img.1314151.xyz/releases">
         <img src="https://img.shields.io/github/release/MarSeventh/CloudFlare-ImgBed" alt="latest version" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/releases">
+        <a href="https://img.1314151.xyz/releases">
         <img src="https://img.shields.io/github/downloads/MarSeventh/CloudFlare-ImgBed/total?color=%239F7AEA&logo=github" alt="Downloads" />
         </a>
         <a href="https://hub.docker.com/r/marseventh/cloudflare-imgbed">
   		  <img src="https://img.shields.io/docker/pulls/marseventh/cloudflare-imgbed?style=flat-square" alt="Docker Pulls" />
 		</a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/issues">
+        <a href="https://img.1314151.xyz/issues">
           <img src="https://img.shields.io/github/issues/MarSeventh/CloudFlare-ImgBed" alt="Issues" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/stargazers">
+        <a href="https://img.1314151.xyz/stargazers">
           <img src="https://img.shields.io/github/stars/MarSeventh/CloudFlare-ImgBed" alt="Stars" />
         </a>
-        <a href="https://github.com/MarSeventh/CloudFlare-ImgBed/network/members">
+        <a href="https://img.1314151.xyz/network/members">
           <img src="https://img.shields.io/github/forks/MarSeventh/CloudFlare-ImgBed" alt="Forks" />
         </a>
     </div>
@@ -129,7 +129,7 @@
   
 - **Contributors**：感谢以下贡献者对本项目的无私贡献！
 
-  [![Contributors](https://contrib.rocks/image?repo=Marseventh/Cloudflare-ImgBed)](https://github.com/MarSeventh/CloudFlare-ImgBed/graphs/contributors)
+  [![Contributors](https://contrib.rocks/image?repo=Marseventh/Cloudflare-ImgBed)](https://img.1314151.xyz/graphs/contributors)
 
 # 5. Star History
 
